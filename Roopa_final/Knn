@@ -30,3 +30,4 @@ print(acc_score)
 new_parameters=[[340,120,4.5,5,5,9.8,1]]
 Chance_of_Admit_predicted=knn.predict(new_parameters)
 print(Chance_of_Admit_predicted)
+roopa
